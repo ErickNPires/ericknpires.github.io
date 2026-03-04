@@ -3,7 +3,6 @@ body {
     min-height: 100vh;
     background: linear-gradient(135deg, #666666, #111111);
     background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 #name {
     font-family: Poppins;
