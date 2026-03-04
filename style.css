@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #666666, #111111);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#name {
+    font-family: Poppins;
+    color: #d6d2cd;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.if-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+#if {
+    width: 30px;
+    height: 30px;
+}
+#developer {
+    font-family: Poppins;
+    color: #afa79c;
+    margin: 0;
+}
+.container {
+    display: grid;
+    place-items: center;
+}
+.info {
+    color: #d6d2cd;
+    font-weight: bold;
+    font-family: Poppins;
+    margin-top: 4vh;
+    margin-bottom: 0;
+}
+.textos {
+    color: #a7b8c7;
+    font-family: Poppins;
+    margin: 0;
+}
+#retangulo {
+    margin-top: 2vh;
+    background-color: #383d40;
+    font-family: Poppins;
+    color: #d6d2cd;
+    width: 30%;
+    text-align: center;
+    margin-bottom: 4vh;
+}
+span {
+    color: #88b3dc;
+}
+.tecnologia {
+    background-color: #383d40;
+    color: #d6d2cd;
+    margin-right: 2%;
+}
+#divSeparadora {
+    height: 3px;
+    width: 30%;
+    background-color: #253448;
+    margin: 4vh;
+}
+.box {
+    padding: 30px;
+    border: 2px dashed rgba(255, 255, 255, 0.15);
+    border-radius: 12px;
+}
+.grandeTexto {
+    color: #d6d2cd;
+    font-weight: bold;
+    font-family: Poppins;
+    margin-top: 4vh;
+    margin-bottom: 0;
+    font-size: 30px;
+}
